@@ -1,9 +1,8 @@
-# masterthesis_codes
+# Introduction
 These are the raw codes for my masters study that was published in Heliyon November 2021 (https://doi.org/10.1016/j.heliyon.2021.e08327). 
 The study address the trace metal concentration in the biotic and abiotic components of River Rwizi in western Uganda.
 
-Abstract
-Abstract
+#Abstract
 The distribution of metals in the Rwizi River ecosystem was investigated and human health risks were assessed. 
 Samples of water, sediment, damselfly larvae (Ceriagrion glabrum) and fish species (Brycinus sadleri and Barbus altianalis),
 were collected at six sites. In all samples the trace elements As, Al, Au, Cd, Co, Cu, Fe, Hg, Mn, Pb, Zn, were quantified. 
@@ -22,4 +21,4 @@ Similarly, the maximum edible risk-free quantity (Q) for As in Brycinus sadleri 
 less than the minimum risk free quantity of 31.5 g. In conclusion, the river water was safe for drinking 
 but the extraction of gold using Hg should be replaced with an environmentally friendly method
 or an effective wastewater treatment should be instituted. People should be cautioned from 
-consuming Brycinus sadler i to avoid potential health hazards.
+consuming Brycinus sadler i to avoid potential health hazards. For more information https://doi.org/10.1016/j.heliyon.2021.e08327
